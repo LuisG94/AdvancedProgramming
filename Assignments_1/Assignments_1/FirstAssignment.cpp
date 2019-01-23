@@ -13,7 +13,7 @@ int main()
 
 	for (int i = 0; i < 6; i++)
 	{
-		fscanf(f, "%f", &values[i]);
+		int x = fscanf(f, "%f", &values[i]);
 		printf("%.3f\n", values[i]);
 		sum = sum + values[i];
 		total++;
