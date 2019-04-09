@@ -1,0 +1,27 @@
+﻿  Practice.cpp
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(20): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(20): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'float *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(27): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(27): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(28): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float **'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(28): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'float **'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(29): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(29): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(30): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float **'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(30): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'float **'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(31): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(31): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'float *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(32): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(32): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'char *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(33): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'float *'
+c:\users\luis\documents\github\advancedprogramming\pointer_practice\pointer_practice\practice.cpp(33): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'float *'
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pointer_Practice.vcxproj -> C:\Users\Luis\Documents\GitHub\AdvancedProgramming\Pointer_Practice\x64\Release\Pointer_Practice.exe
